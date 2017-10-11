@@ -1,6 +1,6 @@
 # TouHou(test)
-# TouHou(test)
 A game demo with CANVAS for studying OOP（Object Oriented Programming）。
+
 Like TouHou Project。
 
 run at  phpnow
