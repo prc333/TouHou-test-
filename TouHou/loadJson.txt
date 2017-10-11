@@ -1,0 +1,26 @@
+﻿{
+	"images":[
+		{"name":"rightBg","src":"images/right_bg.png"},
+		{"name":"player","src":"images/player/player.png"},
+		{"name":"bg1_1","src":"images/background/stage01/world1.png"},
+		{"name":"bg1_2","src":"images/background/stage01/world2.png"},
+		{"name":"eff_sloweffect","src":"images/effect/eff_sloweffect.png"},
+		{"name":"enemy","src":"images/enemy/enemy.png"},
+		{"name":"bullet1","src":"images/bullet/bullet1.png"},
+		{"name":"bullet2","src":"images/bullet/bullet2.png"},
+		{"name":"etama6","src":"images/bullet/etama6.png"},
+		{"name":"item","src":"images/bullet/item.png"},
+		{"name":"etama4","src":"images/effect/etama4.png"},
+		{"name":"cdbg00","src":"images/cdbg00.png"},
+		{"name":"face_st04b","src":"images/boss/boss01/face_st04b.png"},
+		{"name":"stg4benm","src":"images/boss/boss01/stg4benm.png"},
+		{"name":"stg4bg","src":"images/boss/boss01/stg4bg.png"},
+		{"name":"eff04_b","src":"images/boss/boss01/eff04_b.png"},
+		{"name":"eff04_bb","src":"images/boss/boss01/eff04_bb.png"},
+		{"name":"etama3","src":"images/boss/boss01/etama3.png"},
+		{"name":"player01b","src":"images/player/player01b.png"},
+		{"name":"face_st04b","src":"images/boss/boss01/face_st04b.png"}
+		
+
+	]
+}

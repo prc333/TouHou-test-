@@ -1,0 +1,61 @@
+#app{
+	position: relative;
+	margin:10px auto;
+	width: 800px;
+	height: 650px;
+	border: 2px solid #000;
+	background: url(../images/right_bg.png);
+}
+#app canvas{
+	position: absolute;
+	left:0;
+	top:0;
+	/*width: 512px;
+	height: 650px;*/
+	border: 1px solid red;
+}
+#app canvas#shuju{
+	left:530px;
+	top :0px;
+}
+#app .title{
+	position: absolute;
+	left:530px;
+	top:400px;
+	color:#FFF;
+	font-size: 30px;
+	font-family: "微软雅黑";
+	animation: faguang 2s linear 0s infinite alternate;
+
+}
+@-webkit-keyframes faguang{
+	0%{
+		color:#fff;
+		text-shadow:2px 2px 2px #fff;
+	}
+	/*14%{
+		color:orange;
+		text-shadow:2px 2px 2px orange;
+	}
+	28%{
+		color:yellow;
+		text-shadow:2px 2px 2px yellow;
+	}
+	44%{
+		color:green;
+		text-shadow:2px 2px 2px green;
+	}
+	58%{
+		color:skyblue;
+		text-shadow:2px 2px 2px skyblue;
+	}
+	72%{
+		color:blue;
+		text-shadow:2px 2px 2px blue;
+	}*/
+	100%{
+		color:gold;
+		text-shadow:2px 2px 2px gold;
+	}
+	}
+}
