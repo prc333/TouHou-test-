@@ -12,7 +12,7 @@
 		this.boom=3;//boom
 		this.baoJiaoDu=0;
 		this.isBoom=false;
-		this.wuDi=true;//测试
+		this.wuDi=false;//测试
 		this.jiLuF=0;
 
 

@@ -165,7 +165,7 @@
 			}
 			//player
 			game.player.update();
-			if(/*测试*/0&&game.player.wuDi && !game.player.isBoom){
+			if(/*测试0&&*/game.player.wuDi && !game.player.isBoom){
 				game.frame%10==0 && game.player.render();
 			}else{
 				game.player.render();
